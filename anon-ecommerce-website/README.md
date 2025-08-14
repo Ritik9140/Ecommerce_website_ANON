@@ -12,19 +12,14 @@ Before you begin, ensure you have met the following requirements:
 
 To install **Anon**, follow these steps:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Ritik9140/Ecommerce_website_ANON.git
 ```
 
 ## License
 
 This project is **free to use** and does not contains any license.
+
 
